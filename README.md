@@ -9,11 +9,10 @@ About data set:
 The dataset describes the medical records for Pima Indians and whether or not each patient will have an onset of diabetes within five years. It is relatively small where it has 8 features and 768 rows. The link is here: https://www.kaggle.com/kumargh/pimaindiansdiabetescsv
 
 
-Model building:
+Model selection and building:
+
 We choose to use decision tree to train the data set using Scikit-learn library.
 
-
-Model selection:
 Decision tree model might not be the best model for this data set but we choose We choose to use it for training’s seek.
 
 We have found  four approaches for building the tree:
