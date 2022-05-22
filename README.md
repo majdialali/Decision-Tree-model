@@ -1,8 +1,7 @@
 
 Overview:
 
-A decision tree model is implemented on a medical data set to guess if a person will get whether or not a patient will have diabetes within 5 years.
-
+A decision tree model is implemented on a medical data set to guess if a person will get whether or not a patient will have diabetes within 5 years. We have testet 4 different appraoches to train our model on the data.
 
 About data set:
 
